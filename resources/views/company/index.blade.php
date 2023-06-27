@@ -1,4 +1,4 @@
-@extends('MyLayouts.master')
+@extends('layout.master')
 
 @section('asset')
 <link rel="stylesheet" href="{{ asset('theme/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css') }}">

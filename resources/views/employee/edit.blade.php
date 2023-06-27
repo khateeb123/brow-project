@@ -1,4 +1,4 @@
-@extends('MyLayouts.master')
+@extends('layout.master')
 
 
 

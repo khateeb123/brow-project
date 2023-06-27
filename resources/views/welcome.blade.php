@@ -1,4 +1,4 @@
-@extends('MyLayouts.master')
+@extends('layout.master')
 
 @section('title')
 <h1 class="m-0">

@@ -38,11 +38,11 @@
   </div>
 
   <!-- Navbar -->
-  @include('MyLayouts.navbar')
+  @include('layout.navbar')
   <!-- /.navbar -->
 
   <!-- Main Sidebar Container -->
- @include('MyLayouts.sidebar')
+ @include('layout.sidebar')
 
 
   <!-- Content Wrapper. Contains page content -->
